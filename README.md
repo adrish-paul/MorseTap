@@ -74,6 +74,3 @@ Displays the built-in Morse code reference.
 
 * Shows letters and symbols with their Morse representations.
 * Uses animated transitions for opening and closing.
-
-```
-```
