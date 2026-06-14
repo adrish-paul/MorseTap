@@ -1,4 +1,4 @@
-# MorseTap
+# MorseTap 
 
 MorseTap is a modern Android application designed for learning and using Morse code through an interactive touch interface. Users can tap and hold on the screen to enter dots and dashes, view the translated text in real time, hear audio feedback, and access a built-in Morse code reference sheet.
 
